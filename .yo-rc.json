@@ -1,0 +1,9 @@
+{
+  "generator-igemwiki": {
+    "year": "2019",
+    "teamName": "Rice",
+    "repo": "https://github.com/Tyrubias/Rice-iGEM-2019",
+    "author": "Victor vsong1618@gmail.com",
+    "template": "advanced/"
+  }
+}
